@@ -1,0 +1,4 @@
+SOURCES
+
+Public Holidays Data: https://hub.worldpop.org/doi/10.5258/SOTON/WP00689
+Brent Oil Prices: https://www.eia.gov/dnav/pet/hist/RBRTED.htm
